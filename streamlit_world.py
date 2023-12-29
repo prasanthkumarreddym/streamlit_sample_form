@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import requests
-from streamlit_lottie import st_lottie
+#from streamlit_lottie import st_lottie
 
 
 st.set_page_config(layout="wide")
